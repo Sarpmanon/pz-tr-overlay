@@ -1,9 +1,9 @@
 { "comment": "default public file",
 
-"merkez": {
-  "name": "TrZoneMerkez.png",
-  "x": 812,  "y": -505,
-  "width": 377, "height": 279
+"trzonesablon": {
+    "name": "trzonesablon.png",
+    "x": 701,  "y": -507,
+    "width": 808, "height": 667
 }
 
 ,"shep": {
