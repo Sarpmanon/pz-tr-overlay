@@ -18,4 +18,16 @@
     "width": 200, "height": 133
 }
 
+,"tr_bayrak": {
+    "name": "tr_bayrak.png",
+    "x": -4096,  "y": 3295,
+    "width": 1307, "height": 802
+}
+
+,"trzonelink": {
+    "name": "trzonelink.png",
+    "x": -4096,  "y": 3220,
+    "width": 522, "height": 75
+}
+
 }
