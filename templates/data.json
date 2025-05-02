@@ -1,23 +1,51 @@
-{
-  "Worldmap": {
-    "name": "wm.png",
-    "x": -273,
-    "y": 1728,
-    "width": 1363,
-    "height": 635
-   },
-  "ODNLogo": {
-    "name": "ODNLogo.png",
-    "x": 1978,
-    "y": 3912,
-    "width": 117,
-    "height": 113
-   },
-  "cat": {
-   "name": "gatobr.png",
-   "x": 3022,
-   "y": 2922,
-   "width": 178,
-   "height": 88
- }
+{ "comment": "default public file",
+
+"trzonesablon": {
+    "name": "trzonesablon.png",
+    "x": 701,  "y": -507,
+    "width": 808, "height": 668
+}
+
+,"shep": {
+    "name": "shep.png",
+    "x": 919,  "y": -716,
+    "width": 287, "height": 208
+}
+
+,"arstotzka_turkey": {
+    "name": "arstotzka_turkey.png",
+    "x": 1218,  "y": -679,
+    "width": 200, "height": 133
+}
+
+,"tr_bayrak": {
+    "name": "tr_bayrak.png",
+    "x": -4096,  "y": 3295,
+    "width": 1307, "height": 802
+}
+
+,"trzonelink": {
+    "name": "trzonelink.png",
+    "x": -4096,  "y": 3220,
+    "width": 522, "height": 75
+}
+
+,"zafer": {
+    "name": "zafer.png",
+    "x": 2328,  "y": -1238,
+    "width": 345, "height": 244
+}
+
+,"azee2": {
+    "name": "azee2.png",
+    "x": -2739,  "y": 3295,
+    "width": 1307, "height": 801
+}
+
+,"brezilya": {
+    "name": "brezilya.png",
+    "x": 2154,  "y": 3106,
+    "width": 1247, "height": 608
+}
+
 }
